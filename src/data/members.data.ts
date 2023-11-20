@@ -167,6 +167,13 @@ const members: Member[] = [
     description: '啥都不会，啥都想学',
     blogUrl: 'https://xinshoujiajia.github.io/',
   },
+  {
+    name: '冷静的编码器', 
+    avatar: 'github:Coolcorder',
+    description: '认真学习，冷静敲码',
+    githubUrl: 'https://github.com/Coolcorder',
+    blogUrl: 'https://coolcorder.github.io/',
+  },
 ]
 .map(it => ({
   ...it,
